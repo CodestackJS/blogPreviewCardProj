@@ -1,0 +1,17 @@
+body{
+    background-color:hsl(47, 88%, 63%);
+}
+
+.toCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title:hover{
+    color: hsl(47, 88%, 63%);
+}
+
+.card-text{
+    color: rgb(127, 120, 120);
+}
