@@ -1,13 +1,20 @@
 body{
     background-color:hsl(47, 88%, 63%);
-}
-
-.toCenter{
     display: flex;
     justify-content: center;
-    align-items: center;
+    padding-top: 5rem;
 }
 
+.imgTop{
+    border-radius: 20px;
+    padding: 1rem;
+    padding-bottom: 0rem;
+}
+.card{
+    border: black 2px solid;
+    border-radius: 20px;
+    box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
+}
 .card-title:hover{
     color: hsl(47, 88%, 63%);
 }
@@ -15,3 +22,8 @@ body{
 .card-text{
     color: rgb(127, 120, 120);
 }
+.badge{
+    background-color: hsl(47, 88%, 63%);
+    color: black;
+}
+
