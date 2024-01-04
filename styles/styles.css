@@ -11,7 +11,7 @@ body{
     padding-bottom: 0rem;
 }
 .card{
-    border: black 2px solid;
+    border: rgb(132, 129, 129) .5px solid;
     border-radius: 20px;
     box-shadow: 10px 10px 0px 0px rgba(0,0,0,1);
 }
@@ -21,9 +21,16 @@ body{
 
 .card-text{
     color: rgb(127, 120, 120);
+    font-size: small;
 }
 .badge{
     background-color: hsl(47, 88%, 63%);
     color: black;
+    font-size: x-small;
+    padding: 7px;
 }
 
+#publishText{
+    font-size: x-small;
+    
+}
