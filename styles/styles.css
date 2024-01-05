@@ -32,5 +32,18 @@ body{
 
 #publishText{
     font-size: x-small;
+}
+
+.hooper{
+    font-size: small;
+    padding-top: 5px;
+    padding-left: 2px;
     
 }
+
+.gregHooper{
+    height: 30px;
+    display: flex;
+    align-items: left;
+}
+
