@@ -2,9 +2,9 @@
 
  // Date Revised: 1/4/2024
 
- // Exercise or Lab name 
+ // Blog Preview Card
 
- // Brief Description of what you did. 
+ // Card that is responsive, referencing the desktop and mobile version examples. Assets provided, use bootstrap.
 
  // You can add multiple dates with description.
 
